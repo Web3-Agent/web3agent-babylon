@@ -1,0 +1,1 @@
+/Users/user/Desktop/web3Agent-babylon-satlayer-contracts-rust/empty-contract/target/debug/libempty_contract.rlib: /Users/user/Desktop/web3Agent-babylon-satlayer-contracts-rust/empty-contract/src/lib.rs

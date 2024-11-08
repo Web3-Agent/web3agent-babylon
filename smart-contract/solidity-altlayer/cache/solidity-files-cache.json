@@ -1,0 +1,41 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/user/Desktop/web3Agent-babylon-satlayer-contract/contracts/LLMTrainingRequest.sol": {
+      "lastModificationDate": 1731003766185,
+      "contentHash": "115885eeb3167c3ed7badd284932c4cc",
+      "sourceName": "contracts/LLMTrainingRequest.sol",
+      "solcConfig": {
+        "version": "0.8.27",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.20"
+      ],
+      "artifacts": [
+        "LLMTrainingRequest"
+      ]
+    }
+  }
+}
